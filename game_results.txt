@@ -1,0 +1,89 @@
+Game Results:
+Player Score: 0
+Computer Score: 3
+Winner: Computer
+--------------------
+Game Results:
+Player Score: 0
+Computer Score: 1
+Winner: Computer
+--------------------
+Game Results:
+Player Score: 0
+Computer Score: 0
+Winner: Computer
+--------------------
+Game Results:
+Player Score: 1
+Computer Score: 3
+Winner: Computer
+--------------------
+Game Results:
+Player Score: 4
+Computer Score: 3
+Winner: Player
+--------------------
+Game Results:
+Player Score: 0
+Computer Score: 2
+Winner: Computer
+--------------------
+Game Results:
+Player Score: 1
+Computer Score: 0
+Winner: Player
+--------------------
+Game Results:
+Player Score: 2
+Computer Score: 1
+Winner: Player
+--------------------
+Game Results:
+Player Score: 4
+Computer Score: 0
+Winner: Player
+--------------------
+Game Results:
+Player Score: 3
+Computer Score: 0
+Winner: Player
+--------------------
+Game Results:
+Player Score: 4
+Computer Score: 1
+Winner: Player
+--------------------
+Game Results:
+Player Score: 5
+Computer Score: 0
+Winner: Player
+--------------------
+Game Results:
+Player Score: 0
+Computer Score: 1
+Winner: Computer
+--------------------
+Game Results:
+Player Username: hamo
+Player Score: 4
+Computer Score: 0
+Winner: Player
+--------------------
+Game Results:
+Player Username: hamo
+Player Score: 2
+Computer Score: 3
+Winner: Computer
+--------------------
+Game Results:
+Player Username: HAMO
+Player Score: 1
+Computer Score: 1
+Winner: Computer
+--------------------
+Game Results:
+Player Username: HAMO
+Player Score: 2
+Computer Score: 2
+Winner: Computer
+--------------------
